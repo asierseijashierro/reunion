@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+SUMMARY:Webinar Uso Genérico Transportista
+DTSTART:20250328T110000
+DTEND:20250328T113000
+DESCRIPTION:Formación sobre el uso genérico de la aplicación para transportistas.\n\nAccede aquí: https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTQ5MTBkMmMtMGU3Yy00NmY3LWJlYmUtYzJkZWNkOTJhMTYx%40thread.v2/0?context=%7b%22Tid%22%3a%22c8e8bdb6-8e7c-41d5-bc41-37fff3c33b75%22%2c%22Oid%22%3a%2212c9addd-799e-41ec-8e99-4bb769fed3cc%22%7d
+LOCATION:Online
+END:VEVENT
+END:VCALENDAR
